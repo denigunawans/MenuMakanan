@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="harga_tahu">1000</string>
+    <string name="menu_tahu">Tahu</string>
+    <string name="desc_tahu">Tahu adalah makanan yang dibuat dari endapan perasan biji kedelai yang mengalami koagulasi.
+        Tahu berasal dari Tiongkok, seperti halnya kecap, tauco, bakpau, dan bakso.
+        Nama "tahu" merupakan serapan dari bahasa Hokkian, yang secara harfiah berarti "kedelai terfermentasi".</string>
+
+    <string name="harga_bakso">13000</string>
+    <string name="menu_bakso">Bakso</string>
+    <string name="desc_bakso">Bakso atau baso adalah jenis bola daging yang lazim ditemukan pada masakan Indonesia.
+        Bakso umumnya dibuat dari campuran daging sapi giling dan tepung tapioka, tetapi ada juga bakso yang terbuat
+        dari daging ayam, ikan, atau udang bahkan daging kerbau.</string>
+
+    <string name="harga_pecel">9000</string>
+    <string name="menu_pecel">Pecel</string>
+    <string name="desc_pecel">Pecel atau pecal merupakan makanan berasal dari pulau Jawa, makanan ini biasanya
+        dihidangkan dengan bumbu sambal kacang sebagai bahan utamanya dan dicampur dengan aneka jenis sayuran.
+        Makanan ini populer terutama di wilayah DI Yogyakarta, Jawa Tengah, dan Jawa Timur.</string>
+
+    <string name="harga_nasgor">10000</string>
+    <string name="menu_nasgor">Nasi Goreng</string>
+    <string name="desc_nasgor">Nasi goreng adalah sebuah makanan berupa nasi yang digoreng dan diaduk dalam
+        minyak goreng, margarin, atau mentega. Biasanya ditambah kecap manis, bawang merah, bawang putih,
+        asam jawa, lada dan bumbu-bumbu lainnya; seperti telur, ayam, dan kerupuk.</string>
+
+    <string name="harga_kari">17000</string>
+    <string name="menu_kari">Kari Ayam</string>
+    <string name="desc_kari">Kari ayam adalah hidangan umum di Asia Selatan, Asia Tenggara, serta di Caribbean
+        (di mana makanan tersebut biasa disebut sebagai "ayam kari"). Kari ayam di Asia Selatan terdiri dari daging ayam
+        yang direbus dalam bawang bombai dan saus yang berbahan dasar tomat, yang ditambahkan dengan jahe, bawang putih,
+        cabai dan berbagai rempah-rempah, yang biasanya meliputi kunyit, jintan putih, ketumbar, kulit kayu manis,
+        kapulaga seberang dan lain-lain. Di luar Asia Selatan, kari ayam biasanya dibuat dengan campuran rempah-rempah
+        siap masak yakni bubuk kari.Di luar Asia Selatan, kari ayam biasanya dibuat dengan campuran rempah-rempah
+        siap masak yakni bubuk kari.</string>
+
+    <string name="harga_geprek">12000</string>
+    <string name="menu_geprek">Ayam Geprek</string>
+    <string name="desc_geprek">Ayam geprek adalah makanan ayam goreng tepung khas Indonesia yang diulek atau dilumatkan
+        bersama sambal bajak. Kini ayam geprek telah menjadi hidangan populer yang dapat ditemukan di hampir semua
+        kota besar di Indonesia, tetapi asal mula ayam geprek berasal dari kota Yogyakarta.</string>
+
+    <string name="harga_taichan">18000</string>
+    <string name="menu_taichan">Sate Taichan</string>
+    <string name="desc_taichan">Sate taichan adalah sebuah varian sate yang berisi daging ayam yang dibakar
+        tanpa baluran bumbu kacang atau kecap seperti sate pada umumnya.</string>
+</resources>
